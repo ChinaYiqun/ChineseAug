@@ -1,6 +1,6 @@
 a dummy text tool 
 
-##简介
+## 简介
 
 * ChineseAug集成了哪些功能？
     *  同义词转换
